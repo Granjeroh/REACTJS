@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn:ital,wght@1,900&display=swap');
+
+
+.textodescripcion {
+    font-family: 'Vollkorn', serif;
+    font-size: 100px;
+    color: rgb(70, 194, 203);
+    border-radius: 20px;
+
+    text-shadow: 0 0 50px rgb(0, 0, 0);
+
+}
